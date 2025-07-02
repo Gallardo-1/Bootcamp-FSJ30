@@ -1,9 +1,4 @@
 Probando, una prueba
 
 
-si, funciona
-Probando de nuevo
-otra vez
-otra vez2
-
-respondiendo a main
+de nuevo
